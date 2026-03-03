@@ -1,0 +1,4 @@
+Posilek = { Owoce, Frytki, Salatka, Skrzydelka, Paluszki, Zestaw_Probny };
+ceny = [215, 275, 335, 355, 420, 580];
+yumyum = [0, 0, 1, 1, 2, 3];  % Punkty smakowitości
+budzet = 1505;

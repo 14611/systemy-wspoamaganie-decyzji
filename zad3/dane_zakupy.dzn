@@ -1,0 +1,8 @@
+% Definicja zestawu posiłków jako "enum"
+Posilek = { Owoce, Frytki, Salatka, Skrzydelka, Paluszki, Zestaw_Probny };
+
+% Odpowiadające im ceny
+ceny = [215, 275, 335, 355, 420, 580];
+
+% Docelowy budżet
+budzet = 1505;
